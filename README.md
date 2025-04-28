@@ -1,4 +1,4 @@
-# @tiberriver256/docs-to-mcp-cli
+# docs-to-mcp-cli
 
 A CLI tool that generates a self-contained, runnable MCP (Model Context Protocol) server that exposes markdown documentation via specific tools.
 
